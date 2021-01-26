@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tere Solano/CLionProjects/Hash/HashBucket.cpp
+HashBucket.h
+C:/Users/Tere Solano/CLionProjects/Hash/HashBucket.h
+
+C:/Users/Tere Solano/CLionProjects/Hash/HashBucket.h
+iostream
+-
+list
+-
+
+C:/Users/Tere Solano/CLionProjects/Hash/HashCodeShift.cpp
+HashCodeShift.h
+C:/Users/Tere Solano/CLionProjects/Hash/HashCodeShift.h
+
+C:/Users/Tere Solano/CLionProjects/Hash/HashCodeShift.h
+iostream
+-
+
